@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="11.0.4">
+<ModelTarget name="old" targetId="73bbb7cfed7c4eaf934e0e414c165f0e" version="14.0" toolVersion="11.0.4" bbox="-0.065653 -0.001355 -0.034390 0.071171 0.036122 0.039307" previewImage="73bbb7cfed7c4eaf934e0e414c165f0e_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="olds_assembly" assemblyId="8ff60e7734ca4129a7cfea00a70a741b">
+<Part name="old" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.00274701 0.00939497 0.378227" rotation="AD: 1 -0.00113223 0.00245268 229.559" image="old_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="3DScannedPhantom" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="3DScannedPhantoms_assembly" assemblyId="0511b19a139a450b84d0b78bfd8930d4">
+<Part name="3DScannedPhantom" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.00651684 0.0288741 0.475011" rotation="AD: 0.997641 -0.145363 0.557775 205.432" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

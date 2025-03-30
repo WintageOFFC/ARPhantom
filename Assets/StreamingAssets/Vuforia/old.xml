@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="old" motionHint="adaptive" trackingMode="scan" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="olds_assembly" assemblyId="8ff60e7734ca4129a7cfea00a70a741b">
+<Part name="old" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.00274701 0.00939497 0.378227" rotation="AD: 1 -0.00113223 0.00245268 229.559" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

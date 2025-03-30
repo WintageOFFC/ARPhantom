@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3ba339ac4c785b44d8cb59b3d9ee5f94
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192890
+  packageName: Easy Volume Renderer
+  packageVersion: 1.7
+  assetPath: Assets/EasyVolumeRendering/Assets/Scenes/TestScene.unity
+  uploadId: 658829
